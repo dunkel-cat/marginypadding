@@ -1,0 +1,27 @@
+h1{
+	font-size: 20px;
+}
+.primera {
+    height: 230px;
+    width: 200px;
+    background: white;
+    border: 3px solid #FF4000;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+}
+.segunda {
+    height: 230px;
+    width: 200px;
+    background: white;
+    border: 3px solid #FF4000;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+}
+.tercera {
+    height: 230px;
+    width: 200px;
+    background: white;
+    border: 3px solid #FF4000;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+}
