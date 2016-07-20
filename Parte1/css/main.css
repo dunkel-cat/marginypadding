@@ -1,0 +1,10 @@
+h1{
+	font-size: 20px;
+}
+div {
+    height: 230px;
+    width: 200px;
+    background: white;
+    border: 3px solid #FF4000;
+    padding: 10px 10px;
+}
